@@ -2,9 +2,9 @@ import $ from "jquery";
 import gsap from "gsap";
 
 const menu = [
-  'Будинки та квартири',
-  'Комерційні приміщення',
-  'Після ремонту',
+  'Houses and apartments',
+  'Commercial premises',
+  'After renovation',
 ];
 const swiper = initializeSwiper();
 const slideList = document.querySelectorAll('.swiper-slide');
