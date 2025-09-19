@@ -32,7 +32,7 @@ function setTotalOrderCostInTable(isComplexOrder) {
   if (isComplexOrder) {
     cell.textContent = calculateTotalCost(userOrderDataObj);
   } else {
-    cell.textContent = '399zł';
+    cell.textContent = '1000$';
   }
 }
 function toggleRowDisplay(row, value) {
