@@ -1,2 +1,19 @@
 node_modules
 DS_Store
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build artifacts
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: environment or IDE configs
+.env
+*.local
+.vscode/
+.idea/
