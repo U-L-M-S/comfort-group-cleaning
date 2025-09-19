@@ -135,7 +135,7 @@ export const  comparisonImagesData = [
     beforeName: 'before-23',
     afterName: 'after-23',
     desc: 'Фото балкону',
-    categories: ['Сміття', 'Підлога', 'Після ремонту'],
+    categories: ['Сміття', 'Підлога', 'After renovation'],
   },
   {
     beforeName: 'before-24',
@@ -153,7 +153,7 @@ export const  comparisonImagesData = [
     beforeName: 'before-26',
     afterName: 'after-26',
     desc: 'Фото ванної кімнати',
-    categories: ['Сміття', 'Підлога', 'Після ремонту', 'Стіни', 'Санвузол'],
+    categories: ['Сміття', 'Підлога', 'After renovation', 'Стіни', 'Санвузол'],
   },
   {
     beforeName: 'before-27',
@@ -183,7 +183,7 @@ export const  comparisonImagesData = [
     beforeName: 'before-31',
     afterName: 'after-31',
     desc: 'Фото кімнати',
-    categories: ['Сміття', 'Підлога', 'Після ремонту'],
+    categories: ['Сміття', 'Підлога', 'After renovation'],
   },
   {
     beforeName: 'before-32',
@@ -207,7 +207,7 @@ export const  comparisonImagesData = [
     beforeName: 'before-35',
     afterName: 'after-35',
     desc: 'Фото вікна',
-    categories: ['Вікна', 'Після ремонту']
+    categories: ['Вікна', 'After renovation']
   },
   {
     beforeName: 'before-36',
